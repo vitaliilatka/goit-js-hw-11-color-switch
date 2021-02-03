@@ -1,2 +1,2 @@
-import './js/color-switch.js';
+import './js/color-switch';
 import './sass/styles.scss';
